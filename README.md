@@ -2,4 +2,3 @@
 
 test
 test
-ですよ。
