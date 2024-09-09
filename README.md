@@ -8,7 +8,7 @@
 ## 公開ファイル
 
 **🎌 祝日一覧.csv**
-このCSVファイルは　[国民の祝日について - 内閣府](https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html)　で公開されているCSVファイルを元に、加工・作成しました。
+このCSVファイルは　[国民の祝日について - 内閣府](https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html)　（[https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv](https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv)）　で公開されているCSVファイルを元に、加工・作成しました。
 
 **主な加工内容：**
 
