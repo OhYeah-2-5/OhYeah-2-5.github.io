@@ -21,7 +21,7 @@
 
 ## 利用条件
 
-[MIT license](https://opensource.org/license/mit)
+[CC-BY license](LICENSE.md)
 
 ### お願い
 
