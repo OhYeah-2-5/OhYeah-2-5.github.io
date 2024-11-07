@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//OhYeah Japan Holidays//ohyeah-2-5.github.io//JA
+PRODID:-//Japan Holidays//ohyeah-2-5.github.io//JA
 BEGIN:VEVENT
 SUMMARY:元日
 DTSTART;TZID=Asia/Tokyo:20230101T000000

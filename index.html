@@ -13,14 +13,14 @@
     <header>
         <h1>OhYeah to こ - GitHub出張所</h1>
         <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-MSQ2KRCTFT"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-MSQ2KRCTFT"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() { dataLayer.push(arguments); }
+            gtag('js', new Date());
 
-  gtag('config', 'G-MSQ2KRCTFT');
-</script>
+            gtag('config', 'G-MSQ2KRCTFT');
+        </script>
     </header>
 
     <main>
@@ -28,7 +28,7 @@
 
         <h2>公開ファイル</h2>
         <dl>
-            <dt>🎌 <a href="holiday_data/filtered_holidays.csv">祝日一覧CSV（filtered_holidays.csv）</a></dt>
+            <dt>&#x1f38c; <a href="holiday_data/filtered_holidays.csv">祝日一覧CSV（filtered_holidays.csv）</a></dt>
             <dd>
                 <p>このCSVファイルは　<cite><a href="https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html" target="_blank">国民の祝日について - 内閣府</a></cite>　で公開されているCSVファイル（<a href="https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv">https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv</a>）を元に、加工・作成しました。</p>
                 <p><b>主な加工内容：</b></p>
@@ -37,11 +37,21 @@
                     <li>古すぎる祝日データを削除</li>
                 </ul>
             </dd>
+            <dt>&#x1f4c5; <a href="holiday_data/filtered_japanese_holidays.ics">Japan Holidays - カレンダー用icsファイル（filtered_japanese_holidays.ics）</a></dt>
+            <dd>
+                <p>このicsファイルは、上記CSVファイルをGoogleカレンダー等で使えるように、icsファイルへ変換したものです。</p>
+                <p><b>主な加工内容：</b></p>
+                <ul>
+                    <li>CSVファイルをiCal形式に変換</li>
+                    <li>タイムゾーンとして「TZID=Asia/Tokyo」を追加</li>
+                </ul>
+            </dd>
         </dl>
 
         <div class="updates">
             <h3>更新情報</h3>
             <ul>
+                <li>2024年11月7日: 「Japan Holidays - カレンダー用icsファイル（filtered_japanese_holidays.ics）」ファイルを公開しました。</li>
                 <li>2024年9月9日: 「祝日一覧CSV（filtered_holidays.csv）」ファイルを公開しました。</li>
             </ul>
         </div>
@@ -56,8 +66,8 @@
         </ul>
 
         <h3>お願い</h3>
-        <p>ファイルの更新は半自動で行う予定です。<br>更新情報をご確認の上、ご利用ください。</p>
-        <p>新規祝日データの更新など、公式リリースを即日！で反映させたいとお考えの方には、残念ながらオススメいたしません。ご了承願います。</p>
+        <p><u>ファイルの更新は半自動で行う</u>予定です。<br>更新情報をご確認の上、ご利用ください。</p>
+        <p>新規祝日データの更新など、<strong>公式リリースを即日！で反映させたいとお考えの方には、残念ながらオススメいたしません。</strong>ご了承願います。</p>
     </main>
 
     <footer>
