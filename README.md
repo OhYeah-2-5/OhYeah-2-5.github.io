@@ -18,7 +18,7 @@
 
 ### 更新情報
 
-[こちらのページをご覧ください](https://ohyeah-2-5.github.io/)
+[こちらのページをご覧ください →](https://ohyeah-2-5.github.io/)
 
 ## 利用条件
 
