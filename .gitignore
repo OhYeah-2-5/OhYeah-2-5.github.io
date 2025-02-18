@@ -1,3 +1,6 @@
 /my_document
 README.md
 /sass
+*.code-workspace
+/test
+*/back
