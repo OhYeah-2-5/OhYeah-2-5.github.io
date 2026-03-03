@@ -4,3 +4,4 @@ README.md
 *.code-workspace
 /test
 */back
+*/.cache
